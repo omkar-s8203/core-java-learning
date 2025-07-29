@@ -12,8 +12,8 @@ String fruite[] = {"apple", "banana", "watermelon"};
         System.out.println(moreNumbers);
         System.out.println(fruite);
 
-        for(int i=0; i<=arr1.length-1; i++){
-            System.out.println(arr1[i]);
+        for(int i=0; i<=fruite.length-1; i++){
+            System.out.println(fruite[i]);
         }
     }
 }
